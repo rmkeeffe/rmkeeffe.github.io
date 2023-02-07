@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: 3D Skull Puzzles
+description: Using the fun of puzzles to teach anatomy
+img: assets/img/puzzle_chomp_gif.gif
 importance: 3
-category: work
+category: Professional
 ---
 
 Every project has a beautiful feature showcase page.

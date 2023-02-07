@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Frog Feeding Biomechanics
+description: How do frogs eat and swallow their prey?
+img: /assets/img/6-21-22.jpg
 importance: 1
-category: work
+category: Professional
 ---
 
 Every project has a beautiful feature showcase page.

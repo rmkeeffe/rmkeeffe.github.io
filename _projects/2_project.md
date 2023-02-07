@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Frog Forelimb Morphology
+description: What can frog arms tell us about frog evolution?
+img: assets/img/SuppFig1.jpg
 importance: 2
-category: work
+category: Professional
 ---
 
 Every project has a beautiful feature showcase page.
