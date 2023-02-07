@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Mount Holyoke College</a>. Postdoctoral Research Fellow
+subtitle: <a href="https://www.mtholyoke.edu/">Mount Holyoke College</a> Postdoctoral Research Fellow
 
 profile:
   align: right
-  image: 20221016_123450.jpg
+  image: DSC_0084 copy.tif
   image_circular: false # crops the image to make it circular
   address: >
     <p>Mount Holyoke College</p>
