@@ -77,5 +77,5 @@ category: Personal
     </div>
 </div>
 <div class="caption">
-    Rachel Keeffe, Anthropology of Dragon Cover, 2019, pencil on paper and Adobe Photoshop, 8x11 in.
+    Rachel Keeffe, Anthropology of Dragons Cover, 2019, pencil on paper and Adobe Photoshop, 8x11 in.
 </div>
