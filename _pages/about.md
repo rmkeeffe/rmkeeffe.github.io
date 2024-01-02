@@ -6,7 +6,7 @@ subtitle: <a href="https://www.mtholyoke.edu/">Mount Holyoke College</a> Postdoc
 
 profile:
   align: right
-  image: DSC_0084 copy.jpg
+  image: IMG_8295.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Mount Holyoke College</p>
