@@ -7,7 +7,7 @@ importance: 2
 category: Professional
 ---
 
-When most people think of frogs, they often think of their powerful hind limbs and what amazing jumpers they are! And it is true, many frogs are incredible jumpers, but frogs do so much more than that. There are over <a href="https://amphibiaweb.org/amphibian/speciesnums.html">over 7500 species</a> of frogs after all. There are swimming specialists, climbing specialists, and even burrowing specialists.
+When most people think of frogs, they often think of their powerful hind limbs and what amazing jumpers they are! And it is true, many frogs are incredible jumpers, but frogs do so much more than that. There are over <a href="https://amphibiaweb.org/amphibian/speciesnums.html">over 7600 species</a> of frogs after all. There are swimming specialists, climbing specialists, and even burrowing specialists.
 
 What do burrowing frogs look like?
 
@@ -47,7 +47,7 @@ Representative frog silhouettes were reproduced from PhyloPic using the R packag
 2018) or otherwise rendered by hand.
 </div>
 
-From the same paper, myself and my co-author <a href="https://www.floridamuseum.ufl.edu/blackburn-lab/personnel/principal-investigator/">David C. Blackburn</a> found that the upper arm bone (humerus) of forward-burrowing frogs has a unique shape compared to the humerus of non-forward-burrowing frogs.
+From the same paper, myself and my co-author <a href="https://www.floridamuseum.ufl.edu/blackburn-lab/personnel/principal-investigator/">David C. Blackburn</a> found that the upper arm bone (humerus) of forward-burrowing frogs has a unique shape compared to the humerus of non-forward-burrowing frogs. The humeri analyzed in this project ar available on <a href="https://www.morphosource.org/projects/00000C917?locale=en">MorphoSource</a>.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
